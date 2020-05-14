@@ -8,5 +8,6 @@ Open the order brief in manager mode. Type "cmd" in the Run box, right-click the
 
 ![](images/CMD_Output.PNG)
 
-### Spyder Code Writter Output
+### Discover the WiFi Password on Windows Using Spyder Code Writter 
+
 ![](images/Output.png)
