@@ -1,0 +1,3 @@
+# Contains real Wi-Fi passwords - never commit it
+password_router.txt
+__pycache__/
